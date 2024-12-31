@@ -51,7 +51,7 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif,'Franklin Gothic Medium';
     color: #3eacff;
     z-index: 1;
-    text-shadow: 1px 4px rgb(146, 205, 255);
+    text-shadow: 1px 2px rgb(146, 205, 255);
 }
 ::selection{
     background-color: transparent;
